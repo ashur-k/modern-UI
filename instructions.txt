@@ -1,2 +1,8 @@
-Command used to ceate React App
+
   npx create-react-app ./
+
+  npm install react-icons
+
+  https://angrytools.com/gradient/
+
+  https://animista.net/play/basic/scale-up
