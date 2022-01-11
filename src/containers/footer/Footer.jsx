@@ -19,7 +19,7 @@ const Footer = () => {
 
       <div className='gpt3__footer-links'>
         <div className='gpt3__footer-links_logo'>
-          <img src={gpt3Logo} />
+          <img src={gpt3Logo} alt='logo' />
           <p>Crexthwoord k12182 DK, All Rigths Reserved</p>
         </div>
 
